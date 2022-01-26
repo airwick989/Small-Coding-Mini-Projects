@@ -1,2 +1,2 @@
 # Small-Coding-Mini-Projects
-For exercise purposes
+This repository consists of mini projects and programs made for exercise purposes
